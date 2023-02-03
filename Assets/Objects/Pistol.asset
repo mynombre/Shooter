@@ -16,8 +16,11 @@ MonoBehaviour:
   damage: 22
   magazine: 0
   currentAmmo: 0
-  timeToShoot: 0
+  timeToShoot: 2
   range: 0
   timeToReload: 0
   accuracy: 0
   fireType: 0
+
+//que era esto?( 8c6183f2f07b1aa45873a46be65705e1)
+//que guapo
